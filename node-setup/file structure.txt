@@ -1,0 +1,19 @@
+file name:  description
+
+api-V1: that V will contents version
+
+assets: for storing static file for website.
+
+controllers: for router controller.
+
+helpers: for storing helper functions (those functions can repeat in many place)
+
+routers: for store api routes.
+
+validation: for store input validation
+
+view: server side web pages
+
+configs: for any kinds of configuration (like: api configuration).
+
+documentation: for store auto created api documentation.
